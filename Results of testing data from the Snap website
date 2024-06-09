@@ -1,0 +1,17 @@
+Graph Discription: ego_Gplus , Type : Directed , Nodes : 107614 , Edges : 13673453 , Is 2_vertex strongly biconnected : False .
+Graph link :https://snap.stanford.edu/data/ego-Gplus.html 
+
+Graph Discription: musae_github , Type : Undirected , Nodes : 37700 , Edges : 289003 , Is 2_vertex strongly biconnected : False .
+Graph link :https://snap.stanford.edu/data/github-social.html
+
+Graph Discription:musae_facebook , Type : Undirected , Nodes :22470, Edges : 171002 , Is 2_vertex strongly biconnected : False .
+Graph link :https://snap.stanford.edu/data/facebook-large-page-page-network.html
+
+Graph Discription: gemsec_Deezer , Type : Undirected , Nodes : 143884 , Edges : 846915 , Is 2_vertex strongly biconnected : True .
+Graph link :https://snap.stanford.edu/data/gemsec-Deezer.html
+
+Graph Discription: congress_Twitter , Type : Directed , Nodes : 475 , Edges : 13289 , Is 2_vertex strongly biconnected : True .
+Graph link :https://snap.stanford.edu/data/congress-twitter.html
+
+Graph Discription: ego_Facebook , Type : Directed , Nodes : 4039 , Edges : 88234 , Is 2_vertex strongly biconnected : True .
+Graph link :https://snap.stanford.edu/data/ego-Facebook.html.
