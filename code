@@ -19,7 +19,7 @@ bool isitThere(stack < int > s, int x) {
 
 }
 
-//Written by Arin Kutey & QAMAR "GABOW DFS"
+//Written by Arin Kutey & QAMAR Jaboor "GABOW DFS"
 void gabow_dfs(vector < vector < int > > g, int v, int & dfscounter, string * state, int * dfsnum, int * comp, stack < int > ostack, stack < int > rstack) {
   state[v] = "active";
   dfsnum[v] = dfscounter;
@@ -120,7 +120,7 @@ bool AP(vector < vector < int > >  g, int v) {
     if (ap[i] == true) return false;
   return true;
 }
-//Written by HUDA Abdul Wahid Written by NOOR AL EMAN ZREIK & FATIMA HARIR
+//Written by HUDA Abdul Wahid
 //"strongly biconnected test"
 bool biconnected(vector < vector < int > >  g, int n) {
   //is it strongly connected ?
@@ -155,7 +155,7 @@ bool IS_2_vertex_strongly_biconnected(vector < vector < int > > g, int n) {
 }
 
 int main() {
-  string snapgraph[6]={"facebook_combined.txt","musae_github.txt","musae_facebook","gemsec_Deezer.txt","congress_Twitter.txt","ego_Facebook.txt"};
+  string snapgraph[6]={"ego_Gplus.txt","musae_github.txt","musae_facebook.txt","gemsec_Deezer.txt","congress_Twitter.txt","ego_Facebook.txt"};
 
   for(int j=0;j<6;j++){
 
